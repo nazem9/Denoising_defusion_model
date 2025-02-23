@@ -9,3 +9,8 @@ venv/
 # IDE files
 *.vscode
 .idea/
+samples/
+
+checkpoints/
+
+wandb/
